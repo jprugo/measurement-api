@@ -1,0 +1,8 @@
+fastapi
+masonite-orm
+psycopg2-binary
+pytest
+strawberry-graphql[fastapi]
+uvicorn
+requests
+pyudev
